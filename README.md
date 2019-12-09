@@ -12,7 +12,7 @@ npm install --save-dev webpack@2.2.0-rc.0
 
 
 ## Basic syntax:
-In the project root directory maintain a file for **webpack** call as **webpack.config**
+In the project root directory maintain a file for **webpack** call as **webpack.config.js**
 ```javascript
 // Basic webpack config file
 
