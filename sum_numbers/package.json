@@ -11,6 +11,6 @@
   "author": "balasubrahmanyam",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^2.2.0-rc.0"
+    "webpack": "^5.74.0"
   }
 }
